@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Jockey One;
+    src: url(JockeyOne-Regular.ttf);
+}
+
+body {
+    background-color: rgb(255, 255, 255); 
+ }
+ 
+ div {
+     height: 100px;
+ }
+
+ p {
+    font-family: Jockey One;
+    font-size: 48px;
+ }
+ 
+ .cabecalho {
+     background-color: rgb(179, 19, 18);
+     display: flex;
+     justify-content: space-evenly;
+ }
+ 
+ .tituloh1 {
+    font-family: Jockey One;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    color: white;
+ }
+
+ .img
+ 
+.finalidade {
+    background-color: rgb(239, 187, 187);
+}
+
+.inspiracoes {
+    background-color: rgb(43, 42, 76);
+}
+
+ .inspiracoes_titulo {
+    color: white;
+ }
